@@ -514,7 +514,7 @@ while running:
 
 
 
-    dropdown.draw(gameDisplay, font)
+    #dropdown.draw(gameDisplay, font)
     pygame.display.update()
     event = pygame.event.wait()
     if event.type == pygame.QUIT:
