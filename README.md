@@ -17,7 +17,6 @@ pip install math
 ```
 
 
-
 ## Usage
 
 To use this simulation, simply run the main script. The controls for creating and connecting nodes, as well as adjusting their properties, can be accessed through the shortcuts menu after starting the script.
@@ -29,3 +28,7 @@ If you would like to contribute to this project, please fork the repository and 
 ## Note
 
 This project is a work in progress and additional features and improvements are planned for the future.
+
+
+
+![](https://github.com/JMFerreiraa/Smooth-Cables-Simulator/gifs/rope.gif)
