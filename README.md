@@ -31,4 +31,4 @@ This project is a work in progress and additional features and improvements are 
 
 
 
-![](https://github.com/JMFerreiraa/Smooth-Cables-Simulator/gifs/rope.gif)
+![](https://github.com/JMFerreiraa/Smooth-Cables-Simulator/blob/main/gifs/rope.gif)
