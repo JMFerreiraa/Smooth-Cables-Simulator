@@ -2,6 +2,8 @@
 
 This project is a work in progress simulation of nodes and cables, where you can create nodes and connect them with cables. The nodes and cables follow the laws of physics, with nodes able to be either fixed or not, and cable connections between nodes having tension and applying forces on the nodes.
 
+P.S. I am not a physicist neither a physics student, If you find any problem with the formulas please let me know by creating a pull request! ^^
+
 ## Installation
 
 To use this project, you will need to have the following libraries installed:
